@@ -42,12 +42,12 @@ The dashboard serves as a strategic tool to **improve user experience, boost con
 
 ![FlexTrade_Capstone project_Aloysius2](https://github.com/user-attachments/assets/186eab5e-7ec5-4f4e-ac2a-581075181486)
 
-#### 1. **User Engagement & Bounce Rate**
+#### **User Engagement & Bounce Rate**
 
 * The analysis revealed a direct relationship between session duration and bounce rate: the longer users stayed on the app, the less likely they were to exit without interaction.
 * **Average bounce rate was 49%**, consistently above the industry benchmark of 40%, indicating a need for stronger engagement strategies.
 
-#### 2. **Cart Behavior & Conversion Patterns**
+#### **Cart Behavior & Conversion Patterns**
 
 * A positive correlation exists between the number of items added to the cart and successful purchases.
 
@@ -55,7 +55,7 @@ The dashboard serves as a strategic tool to **improve user experience, boost con
   * Conversely, **only 50% of sessions with 54 items** led to successful purchases, suggesting diminishing returns at higher cart volumes.
 * Average conversion rate stood at **50%**, well above the global industry average of 2–3%, signalling good conversion potential when users are retained.
 
-#### 3. **User Feedback Analysis**
+#### **User Feedback Analysis**
 
 * A narrow difference was observed in the volume of different feedback types:
 
@@ -63,28 +63,30 @@ The dashboard serves as a strategic tool to **improve user experience, boost con
   * 94 users reported app crashes
 * This indicates that multiple issues are nearly equally important, and all feedback themes should be addressed proactively.
 
-#### 4. **Trend in App Usage**
+#### **Trend in App Usage**
 
 * Over the years, key metrics such as total users, page views, and cart additions have declined:
 
   * Peak user engagement was in 2021, with 280 users and 729 cart additions.
   * By 2023, both dropped significantly to **189 users** and **509 cart additions**, suggesting a decline in user retention or app relevance.
 
-#### 5. **Add-to-Cart Rates**
+#### **Add-to-Cart Rates**
 
 * **Add-to-cart rates** averaged around **50%**, peaking at **52% in 2022** before dropping to **47% in 2023**.
 * Despite the drop, these figures remain strong relative to industry expectations (typically between 8–10%).
 
-#### 6. **Page Views**
+#### **Page Views**
 
 * A **total of 5,425 page views** were recorded between 2020–2023.
 * 2020 saw the highest engagement (**1,550 page views**), which steadily declined to **1,052 views in 2023**, aligning with the drop in other KPIs.
 
 ---
 
-### ✅ **Conclusion**
+### **Conclusion**
 
-The UX analysis of FlexTrade’s shopping app uncovered valuable behavioural patterns and performance trends. My key takeaways include:
+The UX analysis of FlexTrade’s shopping app uncovered valuable behavioural patterns and performance trends. 
+
+My key takeaways:
 
 * User engagement and longer session times are crucial in reducing bounce rates.
 * Conversion success is tied to moderate cart activity, highlighting the importance of guiding users toward manageable cart sizes.
